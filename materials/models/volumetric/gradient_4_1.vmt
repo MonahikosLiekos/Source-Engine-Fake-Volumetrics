@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/volumetric/gradient_4_1"
+	"$alphatest" 1
+	"$translucent" 1
+}
